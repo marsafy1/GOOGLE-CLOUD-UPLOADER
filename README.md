@@ -8,3 +8,4 @@ Upload files to your google drive of which we will compress and encrypt them for
 - Compressing and encrypting the file for you.
 - An email being sent to you with the file name and the password, so you can access the password without worrying that you might forget it.
 
+![Tux, the Linux mascot](/Users/mohamedkhallid/Desktop/ImSoDONE/gCloudProj/gcloud/src/materials/images/google.png)
