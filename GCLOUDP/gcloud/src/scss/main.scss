@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: inherit;
+    color: white !important;
+    font-family: Bitter !important;
+}
+
+@font-face {
+    font-family: 'Roboto_Flex';
+    src: local('Roboto_Flex'), url(../materials/fonts/Roboto_Flex/static/RobotoFlex/RobotoFlex-Regular.ttf) format('truetype');
+  }
+
+@font-face {
+    font-family: 'Bitter';
+    src: local('Bitter'), url(../materials/fonts/Bitter/static/Bitter-Regular.ttf) format('truetype');
+  }
+
+body{
+    //background: linear-gradient(to right, $primary-color, $secondary-color); 
+    //background-color: #f8f8f8;
+    background-color: rgb(0, 21, 42);
+    font-family: Bitter;
+}
+
+
+
+// COLOR rgb(51, 153, 255)

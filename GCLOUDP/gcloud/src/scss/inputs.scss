@@ -1,0 +1,35 @@
+
+#input-file::-webkit-file-upload-button {
+    visibility: hidden;
+  }
+
+#input-file::before {
+    content: 'Select file';
+    display: inline-block;
+    background: linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    outline: none;
+    white-space: nowrap;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 10pt;
+    padding: 10px;
+}
+
+.MuiFormControlLabel-label{
+    font-family: Bitter !important;
+    font-size: 12px !important;
+}
+
+.MuiInputBase-inputSizeSmall{
+    color:white;
+}
+
+
+.MuiAlert-standardSuccess{
+    background-color: green !important;
+}
+.MuiAlert-standardError{
+    background-color: rgb(215, 0, 0) !important;
+}
