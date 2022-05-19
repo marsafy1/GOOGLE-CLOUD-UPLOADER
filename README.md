@@ -3,5 +3,8 @@ Upload files to your google drive of which we will compress and encrypt them for
 
 
 
-## Things I used
-1. React
+## Features
+- Upload A file to your google drive.
+- Compressing and encrypting the file for you.
+- An email being sent to you with the file name and the password, so you can access the password without worrying that you might forget it.
+
