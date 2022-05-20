@@ -16,4 +16,4 @@ Upload files to your google drive of which we will compress and encrypt them for
 
 
 ## Live Snaps
-![alt text](https://github.com/mokhallid80/GOOGLE-CLOUD-UPLOADER/failedUpload.png?raw=true)
+![alt text](https://github.com/mokhallid80/GOOGLE-CLOUD-UPLOADER/main/failedUpload.png?raw=true)
