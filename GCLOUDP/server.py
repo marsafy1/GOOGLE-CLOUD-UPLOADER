@@ -27,8 +27,8 @@ gauth = GoogleAuth()
 drive = GoogleDrive(gauth)  
 
 port = 465  # For SSL
-sender_password = "khcczhadsadclytc"
-sender_email = "pythonlearner7@gmail.com"
+sender_password = "YOUR_APPLICATION_PASSWORD"
+sender_email = "YOUR_EMAIL"
 context = ssl.create_default_context()
 
 
